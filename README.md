@@ -1,4 +1,4 @@
-Databox | Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage using Python/Django/React
+Databox | Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage, and API payment for membership subscription using Python/Django/React
 
 Technologies used: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
 
