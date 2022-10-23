@@ -2,7 +2,7 @@ Databox | Full Stack Application w/ Login and Registration, full CRUD with valid
 
 Technologies used: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
 
-Group Project Collaborators: Keith Hetrick, Emily Laborte, Joshua Becker
+Group Project Collaborators: Keith Hetrick, Amelia Laborte, Joshua Becker
 
 Databox is cloud based file hosting and storage service. coming soon...
 
