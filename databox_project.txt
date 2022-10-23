@@ -1,0 +1,89 @@
+
+Dropbox Clone / Google Drive Clone
+Python / Django / React
+
+Technologies used: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
+
+Front End - React (clean and interactive) 
+Back End - Python / Django 
+
+Key Points:
+- Learning Django Admin and implementing*
+- Amazon S3 Bucket for uploading files*
+- Stripe API payment* 
+  (users sign up for monthly membership, manage their membership, can cancel on user page)
+
+Notes:
+- Users grant access to other users for certain files, can send email links
+- SSL (need this to have payment API directly on our site)
+- AWS EC2 Deploy and Route 53
+
+
+---------------------------------------------------------------------------------------------------
+
+estimated
+120 - 150 / 3 = 40 - 50 hours per person
+
+an hour a day and then 5 hours on Saturday = 10 hours
+would take 4 weeks. hopefully less but trying to be conservative and not over optomistic 
+
+
+
+https://www.youtube.com/watch?v=f64Ue2C39Ag
+
+
+---------------------------------------------------------------------------------------------------
+
+Emily
+- Leading Front End React Clone
+- Front End Data (useState / useEffect)
+
+Keith
+- Leading Amazon S3 Bucket
+- API Payment integration
+
+Keith and Josh
+- How to Connect Front End to Django
+- S3 links in database
+- Figuring out MySQL connect
+- Controllers and Models
+- Learning Django Admin and implementing*
+
+Josh
+- Leading Django Backend
+- AWS Deploy
+- Route 53
+
+Everyone / whoever has a lighter workload
+- Folder Structure, moving files, directory tree
+- eMail links
+- SSL
+- anything we missed
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Membership Teirs
+
+note: When you sign up automatically get s3 bucket set up. user id is created, s3 bucket automatically set up for that user.
+Size limit for s3 bucket upon creation....pricing teirs / or pay for what you use.
+
+2GB for free
+100GB for $2.99
+1T for $9.99
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Big Picture Action Steps to Get Started:
+
+DONE 1. Everyone - GitHub Repo
+2. Keith and Josh - Learn how to Connect Django Backend with React Front end - find the best resource
+3. Emily - Find the best Dropbox Clone Guide / Youtube Video(s) - Best resources(s)
+4. Keith and Josh - Find the best resource(s) for Amazon S3 w/Django Integration. s3_url link and access control. GitHub and Youtube
+5. Everyone - Create the initial clean project. Clean folder structure push to main branch
+6. Database Model
+7. Wireframe
+8. Learn how to resolve folder problem. How to create folders, how do the directories point to the file. are folders created on s3 or local?
+
+Resources:
+https://github.com/etianen/django-s3-storage/blob/master/django_s3_storage/storage.py
+https://github.com/ponirchizz/django-s3-filebrowser/blob/master/src/awss3browser/file_view.py
