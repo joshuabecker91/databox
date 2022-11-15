@@ -1,10 +1,12 @@
 from django.urls import path, re_path
 from . import views
 from django.conf import settings 
+from django.views.generic import TemplateView
 
 urlpatterns = [
     # General Routes:
-    path('', views.index),
+    path('', TemplateView.as_view(template_name='index.html')),
+    path('html/', views.index), # this is an html page for testing
     # User Routes:
     # path('login_reg/', views.login_reg),
     # path('login/', views.login),
