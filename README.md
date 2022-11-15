@@ -8,6 +8,8 @@ Project currently in development. Databox is a cloud based file hosting and stor
 
 ![databox_logo_lg](https://user-images.githubusercontent.com/98496684/197373955-cbe7722c-2985-4a45-bcc5-cb3ddcf981c7.png)
 
+![image](https://user-images.githubusercontent.com/98496684/201859374-f3441fef-cd5f-4235-82ac-08870082d49a.png)
+
 "# databox" 
 
 
