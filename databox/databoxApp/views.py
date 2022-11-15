@@ -6,4 +6,7 @@ def index(request):
     # context = {
     #     'user' : 'John',
     # }
-    return render(request, 'index.html')
+    return render(request, 'index2.html')
+
+# def example(request):
+#     return render(request, 'example.html')
