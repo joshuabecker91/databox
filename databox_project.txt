@@ -31,11 +31,9 @@ https://www.youtube.com/watch?v=f64Ue2C39Ag
 
 ---------------------------------------------------------------------------------------------------
 
-Emily
+Keith
 - Leading Front End React Clone
 - Front End Data (useState / useEffect)
-
-Keith
 - Leading Amazon S3 Bucket
 - API Payment integration
 
@@ -73,14 +71,26 @@ Size limit for s3 bucket upon creation....pricing teirs / or pay for what you us
 Big Picture Action Steps to Get Started:
 
 DONE 1. Everyone - GitHub Repo
-2. Keith and Josh - Learn how to Connect Django Backend with React Front end - find the best resource
-3. Emily - Find the best Dropbox Clone Guide / Youtube Video(s) - Best resources(s)
-4. Keith and Josh - Find the best resource(s) for Amazon S3 w/Django Integration. s3_url link and access control. GitHub and Youtube
-5. Everyone - Create the initial clean project. Clean folder structure push to main branch
-6. Database Model
-7. Wireframe
-8. Learn how to resolve folder problem. How to create folders, how do the directories point to the file. are folders created on s3 or local?
+DONE 2. Keith and Josh - Connect Django Backend with React Front end - find the best resource
+DONE 3. Everyone - Create the initial clean project. Clean folder structure push to main branch
+4. Find the best Dropbox Clone Guide / Youtube Video(s) - Best resources(s)
+5. MySQL connect and Database Model
+6. Wireframe
+7. Keith and Josh - Find the best resource(s) for Amazon S3 w/Django Integration. s3_url link and access control. GitHub and Youtube
+MOSTLY DONE 8. Learn how to resolve folder problem. How to create folders, how do the directories point to the file. are folders created on s3 or local?
+9. Login and Reg
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+CURRENT PRIORITIES:
+5. MySQL connect and Database Model
+6. Wireframe
+
+
+
 
 Resources:
 https://github.com/etianen/django-s3-storage/blob/master/django_s3_storage/storage.py
 https://github.com/ponirchizz/django-s3-filebrowser/blob/master/src/awss3browser/file_view.py
+
+
