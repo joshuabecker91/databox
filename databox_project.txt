@@ -70,27 +70,23 @@ Size limit for s3 bucket upon creation....pricing teirs / or pay for what you us
 
 Big Picture Action Steps to Get Started:
 
-DONE 1. Everyone - GitHub Repo
-DONE 2. Keith and Josh - Connect Django Backend with React Front end - find the best resource
-DONE 3. Everyone - Create the initial clean project. Clean folder structure push to main branch
-4. Find the best Dropbox Clone Guide / Youtube Video(s) - Best resources(s)
-5. MySQL connect and Database Model
-6. Wireframe
-7. Keith and Josh - Find the best resource(s) for Amazon S3 w/Django Integration. s3_url link and access control. GitHub and Youtube
-MOSTLY DONE 8. Learn how to resolve folder problem. How to create folders, how do the directories point to the file. are folders created on s3 or local?
-9. Login and Reg
+DONE  Everyone - GitHub Repo
+DONE  Keith and Josh - Connect Django Backend with React Front end - find the best resource
+DONE  Everyone - Create the initial clean project. Clean folder structure push to main branch
+DONE  Find the best Dropbox Clone Guide / Youtube Video(s) - Best resources(s)
+DONE  Database Model - DRAFT DONE 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 CURRENT PRIORITIES:
-5. MySQL connect and Database Model
-6. Wireframe
+1  * Connect MySQL to django - Josh 
+2  * Both Learn about Binary Tree with MySQL. Resolve folder problem. How to create folders, how do the directories point to the file. are folders created on s3 or local?
+3    LANDING PAGE - FUN!
+4  * Login and Reg
 
-
+5    Find the best resource(s) for Amazon S3 w/Django Integration. s3_url link and access control. GitHub and Youtube
 
 
 Resources:
 https://github.com/etianen/django-s3-storage/blob/master/django_s3_storage/storage.py
 https://github.com/ponirchizz/django-s3-filebrowser/blob/master/src/awss3browser/file_view.py
-
-
