@@ -1,8 +1,8 @@
 from django.shortcuts import render, redirect
 
 
-from requests import Request, post
-from rest_framework import status
+# from requests import Request, post
+# from rest_framework import status
 
 
 # Create your views here.
