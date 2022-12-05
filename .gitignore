@@ -20,6 +20,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Dependency directories
+# Front End 
 node_modules/
 jspm_packages/
