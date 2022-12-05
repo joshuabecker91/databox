@@ -1,5 +1,10 @@
 from django.shortcuts import render, redirect
 
+
+from requests import Request, post
+from rest_framework import status
+
+
 # Create your views here.
 
 def index(request):
@@ -13,7 +18,11 @@ def index(request):
 
 
 
-
+def route_one(response):
+    # context = {
+    #     'user' : 'John',
+    # }
+    return Response(response, status=status.HTTP_200_OK)
 
 
 
