@@ -18,11 +18,20 @@ def index(request):
 
 
 
-def route_one(response):
-    # context = {
-    #     'user' : 'John',
-    # }
-    return Response(response, status=status.HTTP_200_OK)
+# def route_one(response):
+#     # context = {
+#     #     'user' : 'John',
+#     # }
+#     return Response(response, status=status.HTTP_200_OK)
+
+
+# def route_two(response):
+#     # context = {
+#     #     'user' : 'John',
+#     # }
+#     return Response(response, status=status.HTTP_200_OK)
+
+
 
 
 
