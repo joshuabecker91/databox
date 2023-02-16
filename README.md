@@ -1,12 +1,15 @@
-Databox | Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage, and API payment for membership subscription using Python/Django/React
+Databox is a cloud based file hosting and storage service using AWS S3 Bucket. 
 
-Project currently in development.
+• Boto3 for file storage CRUD on S3 bucket implemented within Django framework.
+• Secure Login and Registration using Bcrypt and access control.
+• Payment system with Stripe API for user monthly subscription.
+• Project currently in development, more to come.
+
+Technologies: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
+
+https://github.com/joshuabecker91/databox
 
 Group Project Collaborators: Keith Hetrick, Joshua Becker
-
-Technologies used: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
-
-Databox is a cloud based file hosting and storage service. 
 
 ![databox_logo_lg](https://user-images.githubusercontent.com/98496684/197373955-cbe7722c-2985-4a45-bcc5-cb3ddcf981c7.png)
 
