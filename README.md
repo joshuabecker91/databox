@@ -1,4 +1,4 @@
-Databox is a cloud based file hosting and storage service using AWS S3 Bucket. 
+Databox | Cloud based file hosting and storage service using AWS S3 Bucket. 
 
 • Boto3 for file storage CRUD on S3 bucket implemented within Django framework.
 
