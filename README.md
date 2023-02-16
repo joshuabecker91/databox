@@ -1,8 +1,11 @@
 Databox is a cloud based file hosting and storage service using AWS S3 Bucket. 
 
 • Boto3 for file storage CRUD on S3 bucket implemented within Django framework.
+
 • Secure Login and Registration using Bcrypt and access control.
+
 • Payment system with Stripe API for user monthly subscription.
+
 • Project currently in development, more to come.
 
 Technologies: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
